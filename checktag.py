@@ -57,9 +57,3 @@ for i in contents:
 #    print("Some tags are not properly closed")
 #else:
 #    print("All tags are properly closed")
-
-
-
-
-
-
